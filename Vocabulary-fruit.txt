@@ -1,0 +1,5 @@
+apple: quả táo
+waterlemont: dưa hấu
+banana: chuối
+orange: quả cam
+pineapple: quả dứa
